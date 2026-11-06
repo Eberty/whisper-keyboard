@@ -1,0 +1,6 @@
+// Shared build settings. Signing settings go in Local.xcconfig (not versioned).
+BUNDLE_ID_PREFIX = com.eberty
+APP_GROUP_ID = group.$(BUNDLE_ID_PREFIX).whisperkeyboard
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

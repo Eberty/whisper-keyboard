@@ -1,0 +1,3 @@
+// Copy to Local.xcconfig (ignored by git) to sign for a real iPhone.
+DEVELOPMENT_TEAM = XXXXXXXXXX
+// BUNDLE_ID_PREFIX = com.example

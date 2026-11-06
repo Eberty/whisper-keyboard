@@ -1,0 +1,50 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "NSFaceIDUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whisper Keyboard uses Face ID to unlock your History."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whisper Keyboard usa Face ID para desbloquear tu Historial."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Whisper Keyboard usa o Face ID para desbloquear o seu Histórico."
+          }
+        }
+      }
+    },
+    "NSMicrophoneUsageDescription": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whisper Keyboard uses the microphone to transcribe your speech on this device."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whisper Keyboard usa el micrófono para transcribir tu voz en este dispositivo."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Whisper Keyboard usa o microfone para transcrever a sua fala neste aparelho."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
